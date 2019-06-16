@@ -1,0 +1,17 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "https://codewithmosh.com/courses/293204/lectures/4509491",
+  "main": "app.js",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "express": "^4.17.1",
+    "jshint": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
